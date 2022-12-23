@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Store",
+    "description": "Store is a comprehensive management system for businesses of all sizes. It includes tools for expenses, purchases, sales, payments, accounting, loans, assets, payroll, and more. Streamline your operations and improve efficiency with Store.",
+    "version": "1.0",
+    "author": {
+      "name": "Ridz Studio",
+      "url": "https://www.ridzstudio.com"
+    },
+    "api": true
+  }
+]
